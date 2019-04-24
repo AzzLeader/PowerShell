@@ -1,4 +1,6 @@
-##### Script counting and listing AD users and groups ####### 
+#####  You must save this script in.ps1 and modify it with your own OU if you want it to work.#######
+
+##### Script counting and listing AD users and groups in the order of their creation ####### 
  
 #Imports of modules
 Import-Module ActiveDirectory 
